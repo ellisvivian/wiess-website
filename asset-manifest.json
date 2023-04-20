@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.29941775.js",
-    "static/js/787.96b810fc.chunk.js": "/react-gh-pages/static/js/787.96b810fc.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.29941775.js.map": "/react-gh-pages/static/js/main.29941775.js.map",
-    "787.96b810fc.chunk.js.map": "/react-gh-pages/static/js/787.96b810fc.chunk.js.map"
+    "main.css": "/wiess-website/static/css/main.073c9b0a.css",
+    "main.js": "/wiess-website/static/js/main.32d5d31c.js",
+    "static/js/787.96b810fc.chunk.js": "/wiess-website/static/js/787.96b810fc.chunk.js",
+    "static/media/logo.svg": "/wiess-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wiess-website/index.html",
+    "main.073c9b0a.css.map": "/wiess-website/static/css/main.073c9b0a.css.map",
+    "main.32d5d31c.js.map": "/wiess-website/static/js/main.32d5d31c.js.map",
+    "787.96b810fc.chunk.js.map": "/wiess-website/static/js/787.96b810fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.29941775.js"
+    "static/js/main.32d5d31c.js"
   ]
 }
